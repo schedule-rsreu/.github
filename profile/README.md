@@ -12,8 +12,8 @@
 
 ## Разработчики
 
-- [**@VinGP**](https://t.me/VinGP) - Backend и DevOps
-- [**@Andrew13145**](https://t.me/Andrew13145) - Frontend
+- [**@VinGP**](https://t.me/VinGP) ([GitHub](https://github.com/VinGP)) - Backend и DevOps
+- [**@Andrew13145**](https://t.me/Andrew13145) ([GitHub](https://github.com/Andrew3313)) - Frontend
 - [**@y_sklv**](https://t.me/y_sklv) - Disign
 
 
